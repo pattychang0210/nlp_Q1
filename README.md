@@ -4,7 +4,6 @@
 
 ```
 docker build -t <image_name> . --no-cache
-
 ```
 
 ## Usage
